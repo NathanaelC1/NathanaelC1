@@ -1,5 +1,6 @@
 ## Hi I'm Nathanael Chendra Rusli 👋
-
+---
+I'm a student at BINUS University in faculty of Computer Science taking a major in Game Application and Technology.
 <!--
 **NathanaelC1/NathanaelC1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
