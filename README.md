@@ -10,7 +10,7 @@ I'm a student at BINUS University in faculty of Computer Science taking a major 
   </thead>
   <tbody>
     <td><image src="https://github.com/NathanaelC1/Pong-GameProg/blob/main/Desktop%202024.10.28%20-%2017.21.28.02.gif"/></td>
-    <td><image src="[https://github.com/NathanaelC1/Pong-GameProg/blob/main/Desktop%202024.10.28%20-%2017.21.28.02.gif](https://github.com/NathanaelC1/SideScroller/blob/main/MushrushGIF.gif)"/></td>
+    <td><image src="https://github.com/NathanaelC1/Pong-GameProg/blob/main/Desktop%202024.10.28%20-%2017.21.28.02.gif"/></td>
   </tbody>
 
 
