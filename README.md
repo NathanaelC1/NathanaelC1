@@ -17,6 +17,15 @@ I'm a student at BINUS University in faculty of Computer Science taking a major 
       <td valign="text-top">A pong game that use cats and dragons as the paddles</td>
       <td valign="text-top">This game called MushRush, where player need to avoid trap and enemy. You can't kill the enemy so you need to avoid it.</td>
     </tr>
+    <thead>
+      <th width="50%"><a>ModernAssaultDefense</a></th>
+    </thead>
+    <tr>
+      <td><image src="https://github.com/NathanaelC1/TowerDefense/blob/main/TowerDefenseGIF.gif"/></td>
+    </tr>
+    <tr>
+      <td valign="text-top">A tower defense game</td>
+    </tr>
   </tbody>
 
 
